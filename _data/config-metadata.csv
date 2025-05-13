@@ -3,7 +3,7 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
-person,Person
+person,Person,true
 subject,Subjects,true
 location,Location
 source,Source
