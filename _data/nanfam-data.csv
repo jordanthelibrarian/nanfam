@@ -1,2 +1,31 @@
-objectid,filename,title,format,description,person,date,subject,location,latitude,longitude,type,language,relation
-bd-001,bd-001.jpg,Bill & Dorothy,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy",,,,,,,,
+objectid,filename,title,format,description,person,date,subject,location,latitude,longitude,type,language,relation,notes
+bd-001,bd-001.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy",1930,,,,,,,,
+bd-002,bd-002.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy",1930,studio portraits,,,,,,,wedding portrait
+bd-003,bd-003.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy",1930,,,,,,,,
+bd-004,bd-004.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy",1930,,,,,,,,
+bd-005,bd-005.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy",1930,,,,,,,,
+bd-006,bd-006.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy",1950,,,,,,,,
+bd-007,bd-007.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy",1950,,,,,,,,anniversary or Easter
+bd-008,bd-008.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy; Gurrie (Briggs), Nancy; Briggs, Donald; Briggs, Dennis",1960-10,,,,,,,,25th anniversary?
+bd-009,bd-009.jpg,,image/jpeg,,"Ellison (Anderson), Edna; Briggs (Ellison), Dorothy; Briggs, William; ?, Hannah; ?, Raymond",1960-10,,,,,,,,Hannah & Raymond are Bill's parents
+bd-010,bd-010.jpg,,image/jpeg,,"Ellison (Anderson), Edna; Briggs (Ellison), Dorothy; Briggs, William; ?, Hannah; ?, Raymond",1960-10,,,,,,,,Hannah & Raymond are Bill's parents
+bd-011,bd-011.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy; Briggs, Donald; Briggs, Dennis",1945,,"Kenosha, Wisconsin",,,,,,
+bd-012,bd-012.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy; Gurrie (Briggs), Nancy; Briggs, Donald; Briggs, Dennis",1955,,,,,,,,
+bd-013,bd-013.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy; Gurrie (Briggs), Nancy; Briggs, Donald; Briggs, Dennis",1955,,,,,,,,
+bd-014,bd-014.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy; Gurrie (Briggs), Nancy; Briggs, Donald; Briggs, Dennis",1955,,,,,,,,
+bd-015,bd-015.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy; Gurrie (Briggs), Nancy; Briggs, Donald; Briggs, Dennis",1945,,,,,,,,
+bd-016,bd-016.jpg,,image/jpeg,"Don and Denny's graduation, Dorothy's house","Briggs, William; Briggs (Ellison), Dorothy; Gurrie (Briggs), Nancy; Briggs, Donald; Briggs, Dennis",1956-05-17,,"Bruce, Wisconsin",,,,,,
+bd-017,bd-017.jpg,,image/jpeg,Dorothy's house,"Briggs, William; Briggs (Ellison), Dorothy; Briggs, Donald; Briggs, Dennis",1956,,"Bruce, Wisconsin",,,,,,
+bd-018,bd-018.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy; Gurrie (Briggs), Nancy; Briggs, Donald; Briggs, Dennis",1945,dogs,,,,,,,
+bd-019,bd-019.jpg,,image/jpeg,,"Gurrie (Briggs), Nancy; Briggs, Donald; Briggs, Dennis",1960,,"Bruce, Wisconsin",,,,,,Don navy
+bd-020,bd-020.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy; Briggs, Donald; Briggs, Dennis",1940,,,,,,,,
+bd-021,bd-021.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy; Gurrie (Briggs), Nancy; Briggs, Donald; Briggs, Dennis",1955,,,,,,,,
+bd-022,bd-022.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy",1975,,,,,,,,40th anniversary
+bd-023,bd-023.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy",1975,,,,,,,,40th anniversary
+bd-024,bd-024.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy",1975,,,,,,,,40th anniversary
+bd-025,bd-025.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy; Gurrie (Briggs), Nancy; Briggs, Donald; Briggs, Dennis",1975,,"Bruce, Wisconsin",,,,,,40th anniversary
+bd-026,bd-026.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy; Gurrie (Briggs), Nancy; Briggs, Donald; Briggs, Dennis",1975,,"Bruce, Wisconsin",,,,,,40th anniversary
+bd-027,bd-027.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy; Gurrie (Briggs), Nancy; Briggs, Donald; Briggs, Dennis",1957-06,,"Marshfield, Wisconsin",,,,,,
+bd-028,bd-028.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy",1965-01,Christmas trees,"Bruce, Wisconsin",,,,,,
+bd-029,bd-029.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy",1972,,,,,,,,
+bd-030,bd-030.jpg,,image/jpeg,,"Briggs, William; Briggs (Ellison), Dorothy",1968,,"Bruce, Wisconsin",,,,,,
